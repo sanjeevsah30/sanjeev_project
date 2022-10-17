@@ -84,7 +84,7 @@ function Dashboard() {
   aria-label="Disabled elevation buttons"
 >
   <Button style={{  borderTopLeftRadius: '50px',
-  borderBottomLeftRadius: '50px'}} onClick={handledataClick}>Showall All Resources</Button>
+  borderBottomLeftRadius: '50px'}} onClick={handledataClick}>Show All Resources</Button>
   <Button style={{  borderTopRightRadius: '50px',
   borderBottomRightRadius: '50px'}} onClick={handleuserClick}>Show All User</Button>
 </ButtonGroup>
